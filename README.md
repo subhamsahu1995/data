@@ -1,7 +1,8 @@
 # Disaster Tweet Detection
 
 This project predicts whether a tweet about a disaster is real or fake using machine learning.
-
+Live App:
+https://subhamsahu1995-data.streamlit.app
 ## Model
 Multinomial Naive Bayes
 
