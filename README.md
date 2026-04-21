@@ -2,7 +2,7 @@
 
 This project predicts whether a tweet about a disaster is real or fake using machine learning.
 Live App:
-https://subhamsahu1995-data.streamlit.app
+https://jmeqtywverajfamqna5wnu.streamlit.app/
 ## Model
 Multinomial Naive Bayes
 
